@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Home
+title: 
 
 # Your name to show in the footer
 author: Savanna Lawson
@@ -19,10 +19,6 @@ author: Savanna Lawson
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:
-  Architecture: "architecture"
-  Graphic Design: "graphicdesign"
-  Physical Art: "physicalart"
 
 ################
 # --- Logo --- #
@@ -47,10 +43,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
-social-network-links:
-  email: "lawson_savanna@outlook.com"
-  linkedin: "savanna-r-lawson"
-  instagram: the_lawson_13
+# social-network-links:
+ # email: "lawson_savanna@outlook.com"
+ # linkedin: "savanna-r-lawson"
+ # instagram: the_lawson_13
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
